@@ -1,0 +1,9 @@
+langchain
+faiss-cpu
+flask
+streamlit
+openai
+python-dotenv
+requests
+sqlalchemy
+tiktoken
